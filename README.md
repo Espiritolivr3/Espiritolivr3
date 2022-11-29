@@ -1,7 +1,7 @@
 
 ## E ai, tudo certo? Eu sou Diogo ☕
 
-- 🌱 Sou novo no mundo da programação.
+- 🌱 Estudando Javascript.
 - 🎨 Ilustrador nas horas vagas.
 - 🌿 Amante da natureza.
 
